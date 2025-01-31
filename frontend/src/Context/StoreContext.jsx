@@ -5,7 +5,7 @@ import axios from 'axios';
 // changed folder case
 const StoreContextProvider = (props) => {
     const [cartItems, setCartItems] = useState({});
-    const backendURL = "https://fooddeliverydharmikaserver.vercel.app";
+    const backendURL = "https://fooddelivery-backend1-di33.onrender.com";
     const [token, setToken] = useState("");
     const [food_list, setFoodList] = useState([]);
 
