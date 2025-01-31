@@ -6,7 +6,7 @@ import { toast } from 'react-toastify'
 import { removeFood } from '../../../../backend/controllers/foodController';
 
 const List = () => {
-  const backendURL = "http://localhost:4000";
+  const backendURL = "https://fooddelivery-backend1-di33.onrender.com"
   const [list, setList] = useState([]);
   const fetchList = async () => {
     const response = await axios.get(`${backendURL}/api/food/list`);

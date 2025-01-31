@@ -7,7 +7,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const Add = ({backendURL}) => {
-    // const backendURL="http://localhost:4000";
+    
     const [image,setImage]=useState(false);
     const [data,setData]=useState({
         name:"",

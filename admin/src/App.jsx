@@ -8,7 +8,7 @@ import {Routes,Route} from 'react-router-dom'
 import { ToastContainer } from 'react-toastify'
 
 const App = () => {
-  const backendURL="http://localhost:4000"
+  const backendURL="https://fooddelivery-backend1-di33.onrender.com"
   return (
     <div>
       <ToastContainer/>
