@@ -3,7 +3,6 @@ import './List.css'
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { toast } from 'react-toastify'
-import { removeFood } from '../../../../backend/controllers/foodController';
 
 const List = () => {
   const backendURL = "https://fooddelivery-backend1-di33.onrender.com"
