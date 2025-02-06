@@ -30,7 +30,7 @@ Check Admin Panel Live Here : https://food-delivery-o8wl1c52j-chilakala-dharmika
 - **Backend:**
   - Node.js, Express.js
 
- - **Database:** - MongoDB
+ - **Database:**  MongoDB
 
 - **Authentication:**
   - JWT (JSON Web Tokens) for secure login and role-based access
