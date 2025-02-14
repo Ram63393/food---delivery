@@ -8,7 +8,7 @@ Check Front end Live Here: https://fooddeliverydharmika.vercel.app
 
 Check Backend Live Here : https://fooddelivery-backend1-di33.onrender.com
 
-Check Admin Panel Live Here : https://food-delivery-o8wl1c52j-chilakala-dharmikas-projects-e8732264.vercel.app/
+Check Admin Panel Live Here : https://food-delivery-adminpanel.vercel.app/
 
 ## Key Features:
 **User Role:**
