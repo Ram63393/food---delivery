@@ -3,13 +3,6 @@
 A full-stack food delivery application that allows users to browse menus, place orders, and track their deliveries.
 This app is designed to simulate a real-world food delivery system where users can interact with the application as
 customers while admins can manage food items and orders.
-
-Check Front end Live Here: https://fooddeliverydharmika.vercel.app
-
-Check Backend Live Here : https://fooddelivery-backend1-di33.onrender.com
-
-Check Admin Panel Live Here : https://food-delivery-adminpanel.vercel.app/
-
 ## Key Features:
 **User Role:**
   - Browse food items by category (e.g., pizza, pasta, desserts)
